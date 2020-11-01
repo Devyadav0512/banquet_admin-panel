@@ -1,0 +1,54 @@
+.Card{
+    height: 100%;
+    width: 400px;
+    margin: 2% 0;
+}
+.Img{
+    height: 200px;
+    width: 400px;
+}
+
+@media(max-width:840px){
+    .Card{
+        height: 100%;
+        width: 350px;
+        margin: 2% 0;
+    }
+    .Img{
+        height: 200px;
+        width: 350px;
+    }
+}
+@media(max-width:760px){
+    .Card{
+        height: 100%;
+        width: 300px;
+        margin: 2% 0;
+    }
+    .Img{
+        height: 200px;
+        width: 300px;
+    }
+}
+@media(max-width:1200px){
+    .Card{
+        height: 100%;
+        width: 300px;
+        margin: 2% 0;
+    }
+    .Img{
+        height: 200px;
+        width: 300px;
+    }
+}
+@media(max-width:990px){
+    .Card{
+        height: 100%;
+        width: 350px;
+        margin: 2% 0;
+    }
+    .Img{
+        height: 200px;
+        width: 350px;
+    }
+}
